@@ -1,0 +1,16 @@
+body {
+  font-family: Helvetica, sans-serif;
+  background-color: #b99c6b;
+  text-align: center;
+}
+
+p {
+  font-size: 16pt;
+  padding-right: 50px;
+  padding-left: 50px;
+}
+
+a {
+  color: #7e6bb9;
+  font-size: 24pt;
+}
