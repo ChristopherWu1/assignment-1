@@ -13,4 +13,10 @@ p {
 a {
   color: #7e6bb9;
   font-size: 24pt;
+  padding-left: 70px;
+}
+
+h1 {
+  text-decoration: underline;
+  color: #7e6bb9;
 }
