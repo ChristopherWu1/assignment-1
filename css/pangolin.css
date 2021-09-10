@@ -13,6 +13,7 @@ p {
 a {
   color: #4450ff;
   font-size: 24pt;
+  padding-left: 70px;
 }
 .big-image {
   max-height: 30%;
